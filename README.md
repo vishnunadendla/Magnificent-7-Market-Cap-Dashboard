@@ -48,4 +48,5 @@ Developed a **visually dynamic Power BI dashboard** that analyzes the **market c
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](images/magnificent7-dashboard.png)
+![Magnificent-7-Market-Cap-Dashboard](Mag_7_Dashboard.jpg)
+![Magnificent-7-Market-Cap-Dashboard](Mag7_tooltip.jpg)
