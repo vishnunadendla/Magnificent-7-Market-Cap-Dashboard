@@ -1,4 +1,4 @@
-#  Magnificent 7 Market Cap Dashboard | Power BI 📈
+#  Magnificent 7 Market Cap Dashboard | Power BI 
 
 This Power BI project visualizes the **market capitalization trends** of the world's top 7 tech giants — often referred to as the **Magnificent Seven** — offering deep, interactive insights into their financial growth over time.
 
@@ -28,7 +28,7 @@ Developed a **visually dynamic Power BI dashboard** that analyzes the **market c
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI**
 - **DAX (Data Analysis Expressions)**
