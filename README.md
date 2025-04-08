@@ -1,5 +1,8 @@
 #  Magnificent 7 Market Cap Dashboard | Power BI 
 
+![Magnificent-7-Market-Cap-Dashboard](Mag_7_Dashboard.jpg)
+![Magnificent-7-Market-Cap-Dashboard](Mag7_tooltip.jpg)
+
 This Power BI project visualizes the **market capitalization trends** of the world's top 7 tech giants — often referred to as the **Magnificent Seven** — offering deep, interactive insights into their financial growth over time.
 
 ---
@@ -43,10 +46,3 @@ Developed a **visually dynamic Power BI dashboard** that analyzes the **market c
 - How the **top 7 tech companies** have grown over time
 - Year-by-year changes in **market cap share**
 - Which companies are dominating the tech sector and how their positions have shifted
-
----
-
-##  Dashboard Preview
-
-![Magnificent-7-Market-Cap-Dashboard](Mag_7_Dashboard.jpg)
-![Magnificent-7-Market-Cap-Dashboard](Mag7_tooltip.jpg)
